@@ -15,6 +15,6 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     crawl_yanolja(3013417)
-    crawl_ye햣ogi(6815)
+    crawl_yeogi(6815)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
